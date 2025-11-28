@@ -23,7 +23,7 @@ Temporary Items
 .aeroplane
 
 # IDEs
-.vscode/
+
 .idea/
 *.swp
 *.swo
